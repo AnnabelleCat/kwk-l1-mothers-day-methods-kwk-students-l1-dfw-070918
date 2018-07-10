@@ -4,4 +4,4 @@ def mothers_day(person="Mom")
   "Happy Mother's Day, #{person}!"
 end
 
-puts mothers_day("Beyonce").capitalize
+puts mothers_day("Beyonce")
